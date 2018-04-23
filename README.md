@@ -30,7 +30,10 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://mmp.bmcc.cuny.edu/shawn.edwards/spring-2018/mmp-100/project-4](http://mmp.bmcc.cuny.edu/shawn.edwards/spring-2018/mmp-100/project-4)
 
 ### Description
-Your description goes here.
+a video of me out playing an opponent in one of my new favorite video games called fortnite.previous to the video i had just fought off 3 opponents so i just finished healing up some when the fight starts.
+kreislacufer-song
+edit by shawn edwards
+gameplay by shawn edwards
 
 ## Rules
 * **Do not** add or remove any files to this repo.
